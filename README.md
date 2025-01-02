@@ -1,4 +1,4 @@
-# MeusProjetos Educacionais para Automção de Atividades para Professores e Estudantes 
+# MeusProjetos Educacionais para Automação de Atividades para Professores e Estudantes 
  Projetos Python educacionais 
  Este repositório contém uma coleção de programas desenvolvidos para automatizar atividades escolares, facilitando o dia a dia de professores e alunos.
 
